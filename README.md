@@ -3,7 +3,7 @@ Reactの開発環境をdocker-composeで構築するためのテンプレート�
 中には，`npx craete-react-app app`コマンドで，作成された`app`ディレクトリが含まれています．
 
 ## 使い方
-1. `git clone https://github.com/USHIken/docker-compose-react`
+1. `git clone https://github.com/togswr/docker-compose-react`
 2. `cd docker-compose-react`
 3. `docker-compose build`
 4. `docker-compose up -d`
